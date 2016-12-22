@@ -1,2 +1,4 @@
 # CR
-calculo do coeficiente de rendimento
+cálculo do coeficiente de rendimento
+
+Apenas para estudos :D
